@@ -10,6 +10,6 @@ Simple Download-Manager App For Android!
 [Download Manager APK - Myket](https://myket.ir/app/Download.Browser.MrSarmasti)
 
 ## Screenshots 
-![](/ScreenShots/0.png) ![](/ScreenShots/1.png) ![](/ScreenShots3.png) ![](/ScreenShots/4.png) ![](/ScreenShots/5.png) ![](/ScreenShots/6.png)
+![](/ScreenShots/0.png) ![](/ScreenShots3.png) ![](/ScreenShots/4.png) ![](/ScreenShots/5.png) ![](/ScreenShots/6.png)
 
 
