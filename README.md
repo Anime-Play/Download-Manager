@@ -12,5 +12,5 @@ Simple Download-Manager App For Android!
 
 ## Download Links
 ![](/get-en.png) ![](/get2-fa.png)
-[Download Manager APK - Myket](https://github.com/hikikomoriphoenix/LM-videodownloader/releases/latest)
+[Download Manager APK - Myket](https://myket.ir/app/Download.Browser.MrSarmasti)
 
